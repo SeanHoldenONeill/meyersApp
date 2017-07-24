@@ -172,5 +172,4 @@ This project wouldn't be possible without help from the community, so I'd like t
 
 And to everyone else who has contributed, even if you are not listed here your work is appreciated.
 
-S.ean
-
+S.
