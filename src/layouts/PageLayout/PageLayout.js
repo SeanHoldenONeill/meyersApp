@@ -7,6 +7,7 @@ export const PageLayout = ({ children }) => ( <
     div className = 'container text-center' >
     <
     h1 > React Redux Starter Kit < /h1> <
+    h2 > S.ean is great! < /h2> <
     IndexLink to = '/'
     activeClassName = 'page-layout__nav-item--active' > Home < /IndexLink> { ' · ' } <
     Link to = '/counter'
