@@ -1,16 +1,13 @@
 import React from 'react'
-import DuckImage from '../assets/Duck.jpg'
+import Sean from '../assets/Sean.jpg'
 import './HomeView.scss'
 
-export const HomeView = () => ( <
-    div >
-    <
-    h4 > Welcome! < /h4> <
-    img alt = 'This is a duck, because Redux!'
-    className = 'duck'
-    src = { DuckImage }
-    /> <
-    /div>
+export const HomeView = () => (
+  <div>
+    <h4>This guy!</h4>
+    <img className='sean' src={Sean} />
+    <img className='sean' src={Sean} />
+  </div>
 )
 
 export default HomeView
